@@ -221,8 +221,9 @@ footer {
 }
 .overlay {
   width: 600px;
+  /* height: 500px; */
   position: relative;
-  margin: 10% auto;
+  margin: 50px auto;
   padding: 40px 30px;
   background: #fff;
   border-radius: 9px;
